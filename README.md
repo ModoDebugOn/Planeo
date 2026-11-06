@@ -19,8 +19,7 @@ Todo lo que sale en pantalla es propio: los personajes son cápsulas de Unity "d
 partir de cómo se comportan los juegos; no se usa código, ni assets, de ningún estudio.
 
 ## Vídeo
-<!-- Pendiente de publicar. -->
-- Vídeo completo: _próximamente_
+- Vídeo completo: https://youtu.be/C-Q_E42IVYU
 - Reels: _próximamente_
 
 ## Cómo probarlo
