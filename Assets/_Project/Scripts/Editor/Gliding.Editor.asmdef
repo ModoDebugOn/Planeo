@@ -1,0 +1,14 @@
+{
+    "name": "Gliding.Editor",
+    "rootNamespace": "Gliding.Editor",
+    "references": ["Gliding.Presentation", "Gliding.Infrastructure"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Gliding.Infrastructure",
+    "rootNamespace": "Gliding.Infrastructure",
+    "references": ["Gliding.Domain", "Gliding.Application", "Gliding.Presentation", "Unity.InputSystem"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
