@@ -20,7 +20,6 @@ partir de cómo se comportan los juegos; no se usa código, ni assets, de ningú
 
 ## Vídeo
 - Vídeo completo: https://youtu.be/C-Q_E42IVYU
-- Reels: _próximamente_
 
 ## Cómo probarlo
 1. Clona el repositorio.
